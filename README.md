@@ -22,7 +22,7 @@ Simply open index page in browser and view!
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     
-    ![screenshot](/images/screenshot.jpg)
+![screenshot][./images/screenshot.jpg]
     
 
 ## Credits
@@ -54,3 +54,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[./images/screenshot.jpg]: ./images/screenshot.jpg
